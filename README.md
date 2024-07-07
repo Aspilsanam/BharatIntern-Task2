@@ -16,7 +16,7 @@ REFERENCES
 
 https://www.youtube.com/watch?v=or_8C2MXRU0&list=PLvAny7IxIkMXM5gNucKUbwhqN2SHLtEG0&index=2
 
-https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/](https://www.geeksforgeeks.org/python-implementation-of-movie-recommender-system/
+https://www.geeksforgeeks.org/python-implementation-of-movie-recommender-system/
 
 https://www.kaggle.com/code/rounakbanik/movie-recommender-systems
 
